@@ -4,6 +4,6 @@
 public class Dinosaur {
 
     public void Roar(){
-        System.out.println("Roar!");
+        System.out.println("Roar!!");
     }
 }
